@@ -24,7 +24,7 @@
     'css': [],
     'js': [],
     'images': [
-        'static/description/auth_signup_banner.png',
+        'static/description/so_po_multi_product_banner.png',
     ],
     'demo': [],
     'installable': True,
