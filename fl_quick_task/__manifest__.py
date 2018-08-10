@@ -19,7 +19,7 @@
     'css': [],
     'js': [],
     'images': [
-        'static/description/birthday_wishes_banner.png',
+        'static/description/quick_task_banner.png',
     ],
     'demo': [],
     'installable': True,
