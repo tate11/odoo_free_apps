@@ -10,6 +10,7 @@
             <field name="auto_delete" eval="True"/>
             <field name="body_html"><![CDATA[
                 <p>Dear ${object.name},</p>
+                <p>Date: ${object.birthday}</p>
                 <p>Happy Birthday..!</p>
                 <p>Wish You a very very Happy Birthday, ${object.name}.</p>
                 <p>Hope you have a great Year Ahead. Stay Healthy, Stay Happy.</p>
@@ -30,6 +31,7 @@
             <field name="auto_delete" eval="True"/>
             <field name="body_html"><![CDATA[
                 <p>Dear ${object.name},</p>
+                <p>Date: ${object.birthday}</p>
                 <p>Happy Birthday..!</p>
                 <p>Hope you have a great Year Ahead. Stay Healthy, Stay Happy.</p>
                 <p style="font-size: 12px;">
