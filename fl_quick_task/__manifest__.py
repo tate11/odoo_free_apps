@@ -2,7 +2,7 @@
 
 {
     'name': 'Quick Task',
-    'version': '11.0.1.0.0',
+    'version': '12.0.1.0.0',
     'category': 'Project',
     'summary': 'Create Quick Task for Project',
     'description': """

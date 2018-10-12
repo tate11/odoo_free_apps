@@ -1,2 +1,2 @@
-Quick Task Module for Odoo 11
+Quick Task Module for Odoo 12
 

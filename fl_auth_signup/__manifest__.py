@@ -2,7 +2,7 @@
 
 {
     'name': 'Auth Signup Form',
-    'version': '11.0.1.0.0',
+    'version': '12.0.1.0.0',
     'category': 'Website',
     'summary': 'Auth signup form with extra fields',
     'description': """
