@@ -18,7 +18,8 @@
     'data': [
         'wizard/select_products_wizard_view.xml',
         'views/sale_views.xml',
-        'views/purchase_views.xml'
+        'views/purchase_views.xml',
+        'security/ir.model.access.csv'
     ],
     'qweb': [],
     'css': [],
