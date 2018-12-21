@@ -1,2 +1,2 @@
-Auth Signup Form for Odoo 12
+SO & PO Multi Product Selection for Odoo 12
 
