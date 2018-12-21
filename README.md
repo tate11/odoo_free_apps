@@ -1,2 +1,2 @@
-Odoo 11 Apps
+Odoo Free Apps
 
